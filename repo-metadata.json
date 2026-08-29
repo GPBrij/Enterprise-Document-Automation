@@ -1,0 +1,7 @@
+{
+    "name":"Enterprise-Document-Automation",
+    "description":"Microsoft Office and document automation framework.",
+    "topics":"Word,Office,Automation,PowerShell",
+    "language":"PowerShell",
+    "owner":"Patrick Brijraj"
+}
